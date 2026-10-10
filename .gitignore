@@ -1,0 +1,13 @@
+# CareFlow AI dependencies
+node_modules/
+target/
+.env
+*.jar
+.idea/
+*.iml
+.vscode/
+dist/
+.tools/
+*.log
+.DS_Store
+
